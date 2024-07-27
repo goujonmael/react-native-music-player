@@ -12,6 +12,6 @@ export const StacksScreenWithSearchBar: NativeStackNavigationOptions = {
 	headerTintColor: colors.text,
 	headerTransparent: true,
 	headerBlurEffect: 'prominent',
-	headerShadowVisible: false,  
+	headerShadowVisible: false,
 	
 }
